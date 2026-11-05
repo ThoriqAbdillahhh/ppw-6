@@ -261,4 +261,4 @@ if (inputSearch) {
 }
 
 // Inisialisasi: Panggil Data Pertama Kali
-loadMahasiswa();
+loadMahasiswa();// buat merge 2
